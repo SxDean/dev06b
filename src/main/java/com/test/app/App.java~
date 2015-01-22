@@ -8,7 +8,5 @@ public class App
 	    System.out.println("Voer jouw hele naam in:");
 	    Scanner voornaam = new Scanner(System.in);
 	    System.out.println("Welkom, " + voornaam.nextLine() + ", dit is mijn Maven applicatie.");
-	
-	    getAge();
 	}
 }
