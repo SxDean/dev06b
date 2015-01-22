@@ -7,4 +7,5 @@
   <version>1.0-SNAPSHOT</version>
   <name>com.test</name>
   <url>http://maven.apache.org</url>
+
 </project>
